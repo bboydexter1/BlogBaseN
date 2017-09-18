@@ -1,0 +1,10 @@
+
+- zabespieczyć logowanie rejestracje przed wstrzykiwaniem sql
+- dodac rzeczy po logowaniu i taie tam (czas na js !!!)
+- poprawic załadowany obrazek 
+- dodac przełaczanie na starsze posty 
+
+
+
+rejestracja :
+-mozna dziwne znaki w nazwie 
